@@ -1,4 +1,4 @@
 # robots.txt tells search engine where to look for main content and where to not look for.
 User-agent: *
 Disallow:
-Sitemap: urlofwebsite/sitemap.xml
+Sitemap: https://tahirjamali.github.io/tahirjamali/sitemap.xml
