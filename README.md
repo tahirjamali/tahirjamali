@@ -14,7 +14,7 @@
     />
   </a>
   
-  <a href="https://app.daily.dev/tahirjamali"><img align="right" src="https://api.daily.dev/devcards/c19995f4dffa40d19b85b0a2d31a8823.png?r=oio" width="400" alt="Tahir jamali's Dev Card"/></a>
+  <a href="https://app.daily.dev/tahirjamali"><img align="right" src="https://api.daily.dev/devcards/c19995f4dffa40d19b85b0a2d31a8823.png?r=oio" width="280" alt="Tahir jamali's Dev Card"/></a>
 
 </div>
 
