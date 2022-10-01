@@ -46,7 +46,20 @@
     justify-content: space-between;
   
     flex-wrap: wrap;
-  }
+
+    background: linear-gradient(90deg, hsl(0deg 0% 41%) 0%,
+     hsl(0deg 0% 8%) 100%);
+
+    padding-right: 3rem;
+
+    }
+
+    .navbar-nav {
+
+      gap: 2.5rem;
+
+
+    }
   
   nav > div {
     display: flex;

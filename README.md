@@ -13,6 +13,11 @@
       alt="LinkedIn"
     />
   </a>
+  
+  <a href="https://app.daily.dev/tahirjamali">
+  	<img align="right" src="https://github.com/tahirjamali/tahirjamali/blob/main/devcard.svg" width="256" alt="Tahir Jamali's Dev Card"/>
+  </a>
+
 </div>
 
 ## I am Tahir
